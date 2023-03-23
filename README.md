@@ -1,5 +1,4 @@
 # Projects
-Data Science Projects
 
 ## [Project 1: Predictive Modeling - Donors](https://github.com/ngockle/Projects/tree/master/Donors%20Models)
 
@@ -13,7 +12,7 @@ Created and evaluated 3 models: Logistic regression, KNN, and XGBoost
 
 ![](https://github.com/ngockle/Projects/blob/master/images/xgboost%20donors%20prediction.png)
 
-## Code and Resources Used
+### Code and Resources Used
 **Packages** pandas, numpy, sklean, matplotlib, seaborn, xgboost, statsmodels
 
 ## [Project 2: Contact Report Analysis](https://github.com/ngockle/Projects/tree/master/Contact%20Report%20Analysis)
@@ -26,5 +25,5 @@ Created and evaluated 3 models: Logistic regression, KNN, and XGBoost
 ![](https://github.com/ngockle/Projects/blob/master/images/all%20contact%20reports.png)
 ![](https://github.com/ngockle/Projects/blob/master/images/LDA%20-%20Negative%20contact%20reports.png)
 
-## Code and Resources Used
+### Code and Resources Used
 **Packages** pandas, numpy, sklean, matplotlib, seaborn, nltk, WordCloud, TextBlob, gensim
