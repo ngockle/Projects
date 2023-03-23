@@ -1,4 +1,4 @@
-# Ngoc_Projects
+# Projects
 
 ## [Project 1: Predictive Modeling - Donors](https://github.com/ngockle/Projects/tree/master/Donors%20Models)
 
@@ -18,7 +18,7 @@ Language: Python 3
   - Visualized the text data accordingly to respective sentiment with wordclouds.
   - Performed topic modeling on negative contact reports to understand the themes and areas of concern.
 
-![](/images/all%20contact%20reports.png)
+<img src="./images/all%20contact%20reports.png" alt="wordcloud">
 
 ### Code and Resources Used
 Language: Python 3
