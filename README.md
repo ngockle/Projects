@@ -10,7 +10,7 @@ Created and evaluated 3 models: Logistic regression, KNN, and XGBoost
     Prediction Models: Using 3 different models to attempt to predict who will be a current year donor.
     Summary: Findings from analysis and performance of the models.
 
-![](https://github.com/ngockle/Projects/blob/master/images/xgboost%20donors%20prediction.png)
+![](/images/xgboost%20donors%20prediction.png)
 
 ### Code and Resources Used
 **Packages** pandas, numpy, sklean, matplotlib, seaborn, xgboost, statsmodels
@@ -22,8 +22,8 @@ Created and evaluated 3 models: Logistic regression, KNN, and XGBoost
     Visualized the text data accordingly to respective sentiment with wordclouds.
     Performed topic modeling on negative contact reports to understand the themes and areas of concern.
 
-![](https://github.com/ngockle/Projects/blob/master/images/all%20contact%20reports.png)
-![](https://github.com/ngockle/Projects/blob/master/images/LDA%20-%20Negative%20contact%20reports.png)
+![](/images/all%20contact%20reports.png)
+![](/images/LDA%20-%20Negative%20contact%20reports.png)
 
 ### Code and Resources Used
 **Packages** pandas, numpy, sklean, matplotlib, seaborn, nltk, WordCloud, TextBlob, gensim
