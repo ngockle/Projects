@@ -7,10 +7,9 @@
 
 <img src="./images/xgboost%20donors%20prediction.png" alt="XGBoost">
 
-### Code and Resources Used
+Code and Resources Used
 - Language: Python 3
-
-- **Packages** pandas, numpy, sklean, matplotlib, seaborn, xgboost, statsmodels
+- Packages: pandas, numpy, sklean, matplotlib, seaborn, xgboost, statsmodels
 
 ## [Project 2: Contact Report Analysis](https://github.com/ngockle/Projects/tree/master/Contact%20Report%20Analysis)
 
@@ -21,7 +20,6 @@
 
 <img src="./images/all%20contact%20reports.png" alt="wordcloud">
 
-### Code and Resources Used
+Code and Resources Used
 - Language: Python 3
-
-- **Packages** pandas, numpy, sklean, matplotlib, seaborn, nltk, WordCloud, TextBlob, gensim
+- Packages: pandas, numpy, sklean, matplotlib, seaborn, nltk, WordCloud, TextBlob, gensim
