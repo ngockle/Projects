@@ -14,3 +14,12 @@ Created and evaluated 3 models: Logistic regression, KNN, and XGBoost
 ## Code and Resources Used
 **Packages** pandas, numpy, sklean, matplotlib, seaborn, xgboost, statsmodels
 
+## [Project 2: Contact Report Analysis](https://github.com/ngockle/Projects/blob/master/Contact%20Report%20Analysis/Sentiment%20Analysis%20-%20Contact%20Reports.ipynb)
+
+    Created two models that perform sentiment analysis on contact reports to predict the interaction as positive, neutral, or negative using NLP packages VADER     and TextBlob.
+    Created logistic regression models on sentiment scores to predict sentiment of future contact reports.
+    Visualized the text data accordingly to respective sentiment with wordclouds.
+    Performed topic modeling on negative contact reports to understand the themes and areas of concern.
+
+## Code and Resources Used
+**Packages** pandas, numpy, sklean, matplotlib, seaborn, nltk, WordCloud, TextBlob, gensim
