@@ -1,7 +1,7 @@
 # Projects
 Data Science Projects
 
-# Project 1: Predictive Modeling - Donors
+## [Project 1: Predictive Modeling - Donors](https://github.com/ngockle/Projects/tree/master/Donors%20Models)
 
 Data science can be leveraged for non-profit fundraising by using models to predict donors for the current year. Analytics could also help identify cohorts and characteristics of potential donors. The aim of this project is to use an anonymized dataset to predict which constituent will donate in the current fiscal year.
 This report will be laid out in several steps:
