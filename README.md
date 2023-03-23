@@ -9,6 +9,7 @@
 
 ### Code and Resources Used
 - Language: Python 3
+
 - **Packages** pandas, numpy, sklean, matplotlib, seaborn, xgboost, statsmodels
 
 ## [Project 2: Contact Report Analysis](https://github.com/ngockle/Projects/tree/master/Contact%20Report%20Analysis)
@@ -22,4 +23,5 @@
 
 ### Code and Resources Used
 - Language: Python 3
+
 - **Packages** pandas, numpy, sklean, matplotlib, seaborn, nltk, WordCloud, TextBlob, gensim
