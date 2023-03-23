@@ -1,13 +1,14 @@
-# Ngoc's Projects
+# Ngoc_Projects
 
 ## [Project 1: Predictive Modeling - Donors](https://github.com/ngockle/Projects/tree/master/Donors%20Models)
 
    - Performed exploratory data analysis to understand the current donors and constituent base.
    - Created and evaluated 3 models: Logistic regression, KNN, and XGBoost
 
-<img src="/images/xgboost%20donors%20prediction.png" alt="XGBoost">
+<img src="./images/xgboost%20donors%20prediction.png" alt="XGBoost">
 
 ### Code and Resources Used
+Language: Python 3
 **Packages** pandas, numpy, sklean, matplotlib, seaborn, xgboost, statsmodels
 
 ## [Project 2: Contact Report Analysis](https://github.com/ngockle/Projects/tree/master/Contact%20Report%20Analysis)
@@ -20,4 +21,5 @@
 ![](/images/all%20contact%20reports.png)
 
 ### Code and Resources Used
+Language: Python 3
 **Packages** pandas, numpy, sklean, matplotlib, seaborn, nltk, WordCloud, TextBlob, gensim
