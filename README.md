@@ -5,7 +5,7 @@
    - Performed exploratory data analysis to understand the current donors and constituent base.
    - Created and evaluated 3 models: Logistic regression, KNN, and XGBoost
 
-![](/images/xgboost%20donors%20prediction.png)
+<img src="/images/xgboost%20donors%20prediction.png">
 
 ### Code and Resources Used
 **Packages** pandas, numpy, sklean, matplotlib, seaborn, xgboost, statsmodels
